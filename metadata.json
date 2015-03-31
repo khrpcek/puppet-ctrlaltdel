@@ -1,0 +1,14 @@
+{
+  "name": "uv-ctrlaltdel",
+  "version": "0.1.0",
+  "author": "Kevin Hrpcek",
+  "summary": "Disables ctrl alt del reboots",
+  "license": "Apache 2.0",
+  "source": "sxuvgit1.qg.com",
+  "project_page": "Kevin",
+  "issues_url": "Kevin",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
